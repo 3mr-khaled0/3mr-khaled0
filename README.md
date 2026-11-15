@@ -1,7 +1,7 @@
 <!-- ═══════════════════ CYBERPUNK HEADER ═══════════════════ -->
 
 <p align="center">
-  <img src="./assets/a_neon_cyberpunk_anime_style_github_profile_readme.png" width="100%" alt="Amr Khaled Cyberpunk Banner"/>
+  <img src="./assets/a_neon_cyberpunk_anime_style_github_profile_readme.jpeg" width="100%" alt="Amr Khaled Cyberpunk Banner"/>
 </p>
 
 <h3 align="center">
