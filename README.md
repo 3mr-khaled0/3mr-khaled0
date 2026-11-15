@@ -57,6 +57,10 @@ I'm a Computer and Systems Engineering student passionate about software develop
 
 ---
 
+---
+
+## 🐍 Contribution Snake
+
 <p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
+  <img src="https://raw.githubusercontent.com/3mr-khaled0/3mr-khaled0/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
