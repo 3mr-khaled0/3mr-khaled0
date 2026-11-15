@@ -149,15 +149,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amr-khaled-8587ab343/">
-    <img src="./assets/social/linkedin.svg" alt="LinkedIn"/>
+    <img src="./social/linkedin.svg" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:amr.khaledd.ak@gmail.com">
-    <img src="./assets/social/email.svg" alt="Email"/>
+    <img src="./social/email.svg" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://github.com/3mr-khaled0">
-    <img src="./assets/social/github.svg" alt="GitHub"/>
+    <img src="./social/github.svg" alt="GitHub"/>
   </a>
 </p>
 
