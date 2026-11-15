@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="44" viewBox="0 0 180 44">
+<rect width="180" height="44" rx="7" fill="#0D1117" stroke="#BC13FE"/>
+<circle cx="23" cy="22" r="13" fill="#E6EDF3"/>
+<path d="M16 25 L16 19 L19 16 L27 16 L30 19 L30 25 L27 28 L19 28 Z" fill="#0D1117"/>
+<text x="46" y="28" font-family="Arial" font-size="15" font-weight="bold" fill="#E6EDF3">GITHUB</text>
+</svg>
