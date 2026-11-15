@@ -5,14 +5,12 @@
   <img src="./assets/a_neon_cyberpunk_anime_style_github_profile_readme.jpeg" width="100%" alt="Amr Khaled Cyberpunk Banner"/>
 </p>
 
-<p align="center">
+<h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Computer+%26+Systems+Engineering+Student;Software+Engineering+Enthusiast;Always+Learning+%7C+Always+Building" alt="Typing Animation"/>
-</p>
+</h3>
 
 <p align="center">
-  <a href="https://github.com/3mr-khaled0">
-    <img src="https://komarev.com/ghpvc/?username=3mr-khaled0&label=PROFILE+VIEWS&color=7B2CBF&style=for-the-badge" alt="Profile Views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=3mr-khaled0&label=PROFILE+VIEWS&color=7B2CBF&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -50,25 +48,21 @@
 <h3 align="center">Programming Languages</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,python,kotlin&theme=dark" alt="Programming Languages"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,kotlin&theme=dark" alt="Programming Languages"/>
 </p>
 
 <h3 align="center">Tools & Platforms</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,idea,androidstudio,godot&theme=dark" alt="Tools and Platforms"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,idea,androidstudio,godot&theme=dark" alt="Tools and Platforms"/>
 </p>
 
 <h3 align="center">Currently Exploring</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-0D1117?style=for-the-badge&logo=fastapi&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Networking-0D1117?style=for-the-badge&logo=cisco&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/Backend-0D1117?style=for-the-badge&logo=fastapi&logoColor=00D9FF" alt="Backend"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00D9FF" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Networking-0D1117?style=for-the-badge&logo=cisco&logoColor=00D9FF" alt="Networking"/>
 </p>
 
 ---
@@ -84,32 +78,35 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="45" alt="Python"/>
       <h3>GUI Vector Converter</h3>
       <p>A Python Tkinter application for vector operations and coordinate conversions.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB"/>
-        <img src="https://img.shields.io/badge/OOP-0D1117?style=flat-square&logoColor=00D9FF"/>
-        <img src="https://img.shields.io/badge/Tkinter-0D1117?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+        <img src="https://img.shields.io/badge/OOP-0D1117?style=flat-square" alt="OOP"/>
+        <img src="https://img.shields.io/badge/Tkinter-0D1117?style=flat-square" alt="Tkinter"/>
       </p>
     </td>
     <td align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=godot&theme=dark" width="45" alt="Godot"/>
       <h3>Mars Simulator</h3>
       <p>A Mars colony simulation featuring resources, buildings, and life-support systems.</p>
       <p>
-        <img src="https://img.shields.io/badge/Godot-0D1117?style=flat-square&logo=godotengine&logoColor=478CBF"/>
-        <img src="https://img.shields.io/badge/GDScript-0D1117?style=flat-square"/>
-        <img src="https://img.shields.io/badge/3D-0D1117?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Godot-0D1117?style=flat-square&logo=godotengine&logoColor=478CBF" alt="Godot"/>
+        <img src="https://img.shields.io/badge/GDScript-0D1117?style=flat-square" alt="GDScript"/>
+        <img src="https://img.shields.io/badge/3D-0D1117?style=flat-square" alt="3D"/>
       </p>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" width="45" alt="Java"/>
       <h3>Data Structures in Java</h3>
       <p>Implementing fundamental data structures from scratch using Java and OOP.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
-        <img src="https://img.shields.io/badge/OOP-0D1117?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Data_Structures-0D1117?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+        <img src="https://img.shields.io/badge/OOP-0D1117?style=flat-square" alt="OOP"/>
+        <img src="https://img.shields.io/badge/Data_Structures-0D1117?style=flat-square" alt="Data Structures"/>
       </p>
     </td>
   </tr>
@@ -121,7 +118,7 @@
 
 ---
 
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
 
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
@@ -141,7 +138,7 @@
 <h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/3mr-khaled0/3mr-khaled0/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+  <img src="./output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 </p>
 
 ---
@@ -152,13 +149,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amr-khaled-8587ab343/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+    <img src="./assets/social/linkedin.svg" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:amr.khaledd.ak@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
+    <img src="./assets/social/email.svg" alt="Email"/>
   </a>
+  &nbsp;
   <a href="https://github.com/3mr-khaled0">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+    <img src="./assets/social/github.svg" alt="GitHub"/>
   </a>
 </p>
 
