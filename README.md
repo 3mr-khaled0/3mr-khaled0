@@ -1,23 +1,7 @@
- 
-<!-- ═══════════════════ CYBERPUNK HEADER ═══════════════════ -->
-
-<p align="center">
-  <img src="./assets/a_neon_cyberpunk_anime_style_github_profile_readme.jpeg" width="100%" alt="Cyberpunk Banner"/>
-</p>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Computer+%26+Systems+Engineering+Student;Software+Engineering+Enthusiast;Always+Learning+%7C+Always+Building" alt="Typing Animation"/>
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=3mr-khaled0&label=PROFILE+VIEWS&color=7B2CBF&style=for-the-badge" alt="Profile Views"/>
-</p>
-
----
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
-<h2 align="center">👨‍💻 ABOUT ME</h2>
+<h2 align="center">✨ ABOUT ME</h2>
 
 <p align="center">
   Hi! I'm <b>Amr Khaled</b>, a Computer and Systems Engineering student.
@@ -85,6 +69,7 @@
 
 ---
 
+ 
 <!-- ═══════════════════ PROJECTS ═══════════════════ -->
 
 <h2 align="center">🚀 PROJECTS & CURRENT WORK</h2>
@@ -102,10 +87,10 @@
       <p><b>Python · OOP · Tkinter</b></p>
     </td>
     <td align="center" width="50%">
-      <img src="./assets/tech/godotengine.svg" height="45" alt="Godot"/>
-      <h3>Mars Simulator</h3>
-      <p>A Mars colony simulation featuring resources, buildings, and life-support systems.</p>
-      <p><b>Godot · GDScript · 3D</b></p>
+      <img src="./assets/tech/java.svg" height="45" alt="Smart Home"/>
+      <h3>Smart Home Panel</h3>
+      <p>A smart home control panel for monitoring and managing connected devices and home automation.</p>
+      <p><b>Smart Home · IoT · Automation</b></p>
     </td>
   </tr>
   <tr>
@@ -113,29 +98,7 @@
       <img src="./assets/tech/java.svg" height="45" alt="Java"/>
       <h3>Data Structures in Java</h3>
       <p>Implementing fundamental data structures from scratch using Java and OOP.</p>
-      <p><b>Java · OOP · Data Structures</b></p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <i>More projects coming soon...</i>
-</p>
-
----
-
-<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
-
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=3mr-khaled0&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3&icon_color=BC13FE" alt="GitHub Statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mr-khaled0&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3" alt="Most Used Languages"/>
-</p>
-
-<p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=3mr-khaled0&theme=tokyonight&hide_border=true&background=0D1117&ring=BC13FE&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</p>
+      <p><b>Java
 
 ---
 
@@ -144,7 +107,11 @@
 <h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/3mr-khaled0/3mr-khaled0/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+  <img
+    src="https://raw.githubusercontent.com/3mr-khaled0/3mr-khaled0/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="Contribution Snake"
+  />
 </p>
 
 ---
@@ -161,17 +128,9 @@
   <a href="mailto:amr.khaledd.ak@gmail.com">
     <img src="./social/email.svg" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/3mr-khaled0">
-    <img src="./social/github.svg" alt="GitHub"/>
-  </a>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=BC13FE&center=true&vCenter=true&width=500&lines=Dream+Big.+Code+Hard.+Stay+Curious.;Thanks+for+visiting+my+profile!+%E2%9D%A4" alt="Footer Animation"/>
-</p>
 
 <p align="center">
   <i>⚡ Designed with passion by Amr Khaled</i>
