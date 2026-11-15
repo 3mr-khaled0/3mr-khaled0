@@ -2,7 +2,7 @@
 <!-- ═══════════════════ CYBERPUNK HEADER ═══════════════════ -->
 
 <p align="center">
-  <img src="./assets/a_neon_cyberpunk_anime_style_github_profile_readme.jpeg" width="100%" alt="Amr Khaled Cyberpunk Banner"/>
+  <img src="./assets/a_neon_cyberpunk_anime_style_github_profile_readme.jpeg" width="100%" alt="Cyberpunk Banner"/>
 </p>
 
 <h3 align="center">
@@ -48,21 +48,39 @@
 <h3 align="center">Programming Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,kotlin&theme=dark" alt="Programming Languages"/>
+  <img src="./assets/tech/java.svg" height="45" alt="Java"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/cplusplus.svg" height="45" alt="C++"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/python.svg" height="45" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/kotlin.svg" height="45" alt="Kotlin"/>
 </p>
 
 <h3 align="center">Tools & Platforms</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,idea,androidstudio,godot&theme=dark" alt="Tools and Platforms"/>
+  <img src="./assets/tech/git.svg" height="45" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/github.svg" height="45" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/linux.svg" height="45" alt="Linux"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/intellijidea.svg" height="45" alt="IntelliJ IDEA"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/androidstudio.svg" height="45" alt="Android Studio"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/godotengine.svg" height="45" alt="Godot Engine"/>
 </p>
 
 <h3 align="center">Currently Exploring</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-0D1117?style=for-the-badge&logo=fastapi&logoColor=00D9FF" alt="Backend"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00D9FF" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Networking-0D1117?style=for-the-badge&logo=cisco&logoColor=00D9FF" alt="Networking"/>
+  <img src="./assets/tech/fastapi.svg" height="45" alt="FastAPI"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/kalilinux.svg" height="45" alt="Kali Linux"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tech/cisco.svg" height="45" alt="Cisco Networking"/>
 </p>
 
 ---
@@ -78,36 +96,24 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="45" alt="Python"/>
+      <img src="./assets/tech/python.svg" height="45" alt="Python"/>
       <h3>GUI Vector Converter</h3>
       <p>A Python Tkinter application for vector operations and coordinate conversions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
-        <img src="https://img.shields.io/badge/OOP-0D1117?style=flat-square" alt="OOP"/>
-        <img src="https://img.shields.io/badge/Tkinter-0D1117?style=flat-square" alt="Tkinter"/>
-      </p>
+      <p><b>Python · OOP · Tkinter</b></p>
     </td>
     <td align="center" width="50%">
-      <img src="https://skillicons.dev/icons?i=godot&theme=dark" width="45" alt="Godot"/>
+      <img src="./assets/tech/godotengine.svg" height="45" alt="Godot"/>
       <h3>Mars Simulator</h3>
       <p>A Mars colony simulation featuring resources, buildings, and life-support systems.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Godot-0D1117?style=flat-square&logo=godotengine&logoColor=478CBF" alt="Godot"/>
-        <img src="https://img.shields.io/badge/GDScript-0D1117?style=flat-square" alt="GDScript"/>
-        <img src="https://img.shields.io/badge/3D-0D1117?style=flat-square" alt="3D"/>
-      </p>
+      <p><b>Godot · GDScript · 3D</b></p>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://skillicons.dev/icons?i=java&theme=dark" width="45" alt="Java"/>
+      <img src="./assets/tech/java.svg" height="45" alt="Java"/>
       <h3>Data Structures in Java</h3>
       <p>Implementing fundamental data structures from scratch using Java and OOP.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java"/>
-        <img src="https://img.shields.io/badge/OOP-0D1117?style=flat-square" alt="OOP"/>
-        <img src="https://img.shields.io/badge/Data_Structures-0D1117?style=flat-square" alt="Data Structures"/>
-      </p>
+      <p><b>Java · OOP · Data Structures</b></p>
     </td>
   </tr>
 </table>
@@ -151,11 +157,11 @@
   <a href="https://www.linkedin.com/in/amr-khaled-8587ab343/">
     <img src="./social/linkedin.svg" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:amr.khaledd.ak@gmail.com">
     <img src="./social/email.svg" alt="Email"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/3mr-khaled0">
     <img src="./social/github.svg" alt="GitHub"/>
   </a>
