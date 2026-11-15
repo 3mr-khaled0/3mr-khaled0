@@ -138,7 +138,7 @@
 <h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
 <p align="center">
-  <img src="./output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/3mr-khaled0/3mr-khaled0/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 </p>
 
 ---
