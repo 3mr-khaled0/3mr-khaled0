@@ -102,20 +102,6 @@
 
 ---
 
-<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
-
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/3mr-khaled0/3mr-khaled0/output/github-contribution-grid-snake.svg"
-    width="100%"
-    alt="Contribution Snake"
-  />
-</p>
-
----
-
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 
 <h2 align="center">🌐 LET'S CONNECT</h2>
